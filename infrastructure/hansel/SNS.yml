@@ -1,0 +1,5 @@
+HanselError:
+  Type: AWS::SNS::Topic
+  Properties:
+    DisplayName: HanselError
+    TopicName: HanselError

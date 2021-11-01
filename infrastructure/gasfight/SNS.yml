@@ -1,0 +1,5 @@
+GasFightAPIQueue:
+  Type: AWS::SNS::Topic
+  Properties:
+    DisplayName: GasFightAPIQueue
+    TopicName: GasFightAPIQueue
